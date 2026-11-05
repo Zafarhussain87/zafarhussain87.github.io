@@ -1,6 +1,6 @@
 # My personal website
 
-A one-page personal site (About, News, Projects, Publications, CV) hosted free on GitHub Pages.
+A one-page personal site (About, News, Publications, CV).
 No build tools needed: it's a single `index.html` file.
 
 ## Put it online (about 5 minutes)
